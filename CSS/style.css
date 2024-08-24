@@ -1,4 +1,15 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
-  }
+  } */
+
+#main-sction {
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+}
+
+.left-col {
+    
+}
