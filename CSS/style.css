@@ -3,13 +3,20 @@
     padding: 0;
   } */
 
-#main-sction {
-    width: 100%;
-    height: auto;
+#main-section {
+    width: auto;
+    height: 2000px;
     display: flex;
-    
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: start;
 }
 
 .left-col {
-    
+    width: 60%;
+    height: auto;
+}
+.left-col > div > h1 {
+    font-size: 35px;
+    color: #3f63ad;
 }
