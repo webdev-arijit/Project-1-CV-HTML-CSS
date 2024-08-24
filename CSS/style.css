@@ -105,10 +105,8 @@
 .right-col>div>img {
     width: 200px;
     height: 200px;
-    border: 2px solid;
-    border-color: #3f63ad;
     border-radius: 100%;
-    margin-bottom: 20px;
+    filter: drop-shadow(10px 2px 15px#3f63ad);
 }
 
 .right-col-div-contact-info>h2 {
